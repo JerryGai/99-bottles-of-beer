@@ -33,4 +33,4 @@ function printOutLyrics($totalBottles)
     }
 }
 
-printOutLyrics(9);
+printOutLyrics(99);
